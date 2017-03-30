@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pharmadtu</string>
+    <string name="product_image">Product Image</string>
+
+    <string name="home">Home</string>
+<string name="news">News</string>
+<string name="blood">Blood</string>
+<string name="hospital">Hospita;</string>
+<string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="name">Name</string>
+<string name="t_amp_c_apply"><![CDATA[T & C Apply]]></string>
+
+
+</resources>

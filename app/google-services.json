@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408169931614",
+    "firebase_url": "https://pharmadtu.firebaseio.com",
+    "project_id": "pharmadtu",
+    "storage_bucket": "pharmadtu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408169931614:android:dcf3a39fd7e2c6b1",
+        "android_client_info": {
+          "package_name": "com.harinder.pharmadtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408169931614-uaq12v5c7sknbtp9s48mc5dfat5ahqu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaY5OFHdE4yYw2PPA1ljKhAzqsbH6TL6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408169931614-uaq12v5c7sknbtp9s48mc5dfat5ahqu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
